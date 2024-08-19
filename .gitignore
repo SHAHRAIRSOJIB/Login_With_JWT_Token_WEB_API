@@ -1,0 +1,91 @@
+# .NET build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]/*
+[Ll]ogs/
+[Ll]ogs/*.log
+[Ll]ogs/*.txt
+
+# Dotnet specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.iobj
+*.pdb
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.package
+*.nuget/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Node.js
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.pdb
+*.dbmdl
+*.bak
+*.dmp
+
+# ASP.NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.csproj.user
+*.csproj.deps.json
+
+# Translations
+*.xlf
+*.xliff
+*.po
+*.pot
